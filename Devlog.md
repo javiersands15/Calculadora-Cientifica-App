@@ -1,24 +1,19 @@
-Devlog — Calculadora Científica
+#Devlog — Calculadora Científica
+##Devlog #1 — Inicio del proyecto
 
-Registro del desarrollo y las actualizaciones del proyecto.
+En esta actualización creamos la base de la calculadora científica.
 
-Pre-Alpha — Inicio del proyecto
-Lo que se hizo
-Se creó el repositorio del proyecto.
-Se creó la estructura inicial de archivos.
-Se agregó index.html.
-Se agregó style.css.
-Se agregó script.js.
-Se creó la interfaz inicial de la calculadora.
-Se agregaron las operaciones básicas.
-Se configuró GitHub Pages para probar la calculadora en línea.
-Estado actual
+#Cambios
 
-La calculadora se encuentra en Pre-Alpha y cuenta con una versión inicial funcional.
+###Creamos index.html.
+###Creamos style.css.
+###Creamos script.js.
+###Añadimos el diseño inicial de la calculadora.
+###Añadimos las operaciones básicas.
+###Publicamos el proyecto con GitHub Pages.
 
-Próximos objetivos
-Mejorar la interfaz.
-Agregar más operaciones matemáticas.
-Agregar funciones científicas.
-Mejorar el funcionamiento de los botones.
-Preparar el proyecto para futuras versiones y actualizaciones.
+##Estado
+
+###Pre-Alpha
+
+Este es el comienzo del desarrollo. En las próximas actualizaciones iremos agregando nuevas funciones y mejorando la calculadora.
